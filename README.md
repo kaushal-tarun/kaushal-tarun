@@ -1,6 +1,4 @@
-## Hi there 👋
-
-Im' TARUN KAUSHAL  <3
+hey //Im' TARUN KAUSHAL  <3
 
 BCA Student , 19
 
