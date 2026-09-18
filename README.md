@@ -2,7 +2,7 @@
 
 Im' TARUN KAUSHAL
 
-BCA Student 
+BCA Student , 19
 
 ────────────────────
 
@@ -29,6 +29,11 @@ Current Quest
 » SkillSphere , C2C
 
 ────────────────────
+
+Connect with me 
+
+https://x.com/kaushal_tarunn
+
 
 Thanks for stopping by.
 <!--
