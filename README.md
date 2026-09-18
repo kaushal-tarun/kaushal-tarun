@@ -14,6 +14,7 @@ Currently focused on building and exploring AI systems and modern web developmen
 
 Experience Points
 
+
 » Built and deployed multiple projects
 
 » Full-stack and AI-focused development
@@ -32,7 +33,9 @@ Current Quest
 
 Connect with me 
 
-https://x.com/kaushal_tarunn
+» X                https://x.com/kaushal_tarunn
+» portfolio        not yet 
+» later
 
 
 Thanks for stopping by.
