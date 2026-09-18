@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-# TARUN KAUSHAL
+Im' TARUN KAUSHAL
 
-BCA Student • Builder
+BCA Student 
 
 ────────────────────
 
 I enjoy creating products, solving problems, and learning through real projects.
 
-Currently focused on building SkillSphere while exploring AI systems and modern web development.
+Currently focused on building and exploring AI systems and modern web development.
 
 ────────────────────
 
@@ -26,7 +26,7 @@ Experience Points
 
 Current Quest
 
-» SkillSphere
+» SkillSphere , C2C
 
 ────────────────────
 
