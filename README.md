@@ -1,4 +1,4 @@
-hey //Im' TARUN KAUSHAL  <3
+hey //&nbsp;Im' TARUN KAUSHAL  <3
 
 BCA Student , 19
 
@@ -38,6 +38,6 @@ Connect With Me
 » Portfolio&nbsp;&nbsp;&nbsp;→ https://
 
 --------------------------
-Thanks for stopping by! :)
+Thanks for stopping by!&nbsp;&nbsp; :)
 
-Feel free to say hi, share ideas, or just grab a virtual coffee ☕︎
+Feel free to say hi, share ideas, or just grab a virtual coffee &nbsp;☕︎
