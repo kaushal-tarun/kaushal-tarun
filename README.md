@@ -31,13 +31,13 @@ Current Quest
 
 ────────────────────
 
-Connect with me 
+Connect With Me
 
-» X             →   https://x.com/kaushal_tarunn
+» LinkedIn   → https://
+» X          → https://x.com/kaushal_tarunn
+» Portfolio  → https://
 
-» portfolio     →   not yet 
+--------------------------
+Thanks for stopping by! :)
 
-»               →   later
-
-
-Thanks for stopping by.  :)
+Feel free to say hi, share ideas, or just grab a virtual coffee ☕︎
