@@ -33,7 +33,7 @@ Connect With Me
 
 » LinkedIn&nbsp;&nbsp;&nbsp;→ https://
 
-» X&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ @kaushal_tarunn
+» X&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ https://x.com/kaushal_tarunn
 
 » Portfolio&nbsp;&nbsp;&nbsp;→ https://
 
