@@ -31,11 +31,11 @@ Current Quest
 
 Connect With Me
 
-» LinkedIn...→ https://
+» LinkedIn&nbsp;&nbsp;&nbsp;→ https://
 
-» X..........→ https://x.com/kaushal_tarunn
+» X&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ @kaushal_tarunn
 
-» Portfolio..→ https://
+» Portfolio&nbsp;&nbsp;&nbsp;→ https://
 
 --------------------------
 Thanks for stopping by! :)
