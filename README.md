@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Im' TARUN KAUSHAL
+Im' TARUN KAUSHAL  <3
 
 BCA Student , 19
 
@@ -33,11 +33,11 @@ Current Quest
 
 Connect with me 
 
-» X                https://x.com/kaushal_tarunn
+» X             →   https://x.com/kaushal_tarunn
 
-» portfolio        not yet 
+» portfolio     →   not yet 
 
-» later
+»               →   later
 
 
-Thanks for stopping by.
+Thanks for stopping by.  :)
