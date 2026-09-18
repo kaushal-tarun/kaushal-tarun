@@ -34,7 +34,9 @@ Current Quest
 Connect With Me
 
 » LinkedIn   → https://
+
 » X          → https://x.com/kaushal_tarunn
+
 » Portfolio  → https://
 
 --------------------------
