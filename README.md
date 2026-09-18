@@ -1,5 +1,36 @@
 ## Hi there 👋
 
+# TARUN KAUSHAL
+
+BCA Student • Builder
+
+────────────────────
+
+I enjoy creating products, solving problems, and learning through real projects.
+
+Currently focused on building SkillSphere while exploring AI systems and modern web development.
+
+────────────────────
+
+Experience Points
+
+» Built and deployed multiple projects
+
+» Full-stack and AI-focused development
+
+» Strong interest in product building
+
+» Learning by shipping, not collecting tutorials
+
+────────────────────
+
+Current Quest
+
+» SkillSphere
+
+────────────────────
+
+Thanks for stopping by.
 <!--
 **kaushal-tarun/kaushal-tarun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
