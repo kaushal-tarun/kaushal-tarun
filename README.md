@@ -25,7 +25,7 @@ Experience Points
 
 Current Quest
 
-» SkillSphere , C2C
+» Ai Agents
 
 ────────────────────
 
